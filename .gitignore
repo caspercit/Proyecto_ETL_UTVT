@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# SSIS
+*.dtproj.user
+*.suo
+*.user
+
+# Temporales
+*.tmp
+*.bak
+
+# Archivos comprimidos
+*.zip
