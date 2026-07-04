@@ -6,6 +6,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
 ![Release](https://img.shields.io/badge/Release-1.0-success)
 
+
+## 🎥 Video de funcionamiento
+
+El video demostrativo del proyecto puede visualizarse en el siguiente enlace:
+
+https://drive.google.com/file/d/1VZAczyBRM9b-xQkGNQJMkEX8sX64tQVC/view?usp=sharing
+
 ---
 
 # 📖 Descripción General
@@ -302,7 +309,7 @@ Como trabajo futuro se propone:
 
 # 👨‍💻 Autor
 
-**Uriel Gutiérrez Serrano**
+**Uriel Gutiérrez Serrano y Valeria Mercado Serrano**
 
 Ingeniería en Desarrollo y Gestión de Software
 
@@ -311,6 +318,7 @@ Universidad Tecnológica del Valle de Toluca (UTVT)
 2026
 
 ---
+
 
 # 📜 Licencia
 
